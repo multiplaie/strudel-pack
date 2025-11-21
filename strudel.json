@@ -1,31 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/multiplaie/strudel-pack/main/",
-  "hihat": [
-    "https://cdn.freesound.org/previews/804/804874_3797507-hq.mp3",
-    "https://cdn.freesound.org/previews/804/804906_3797507-hq.mp3"
-  ],
   "kick": [
-    "https://cdn.freesound.org/previews/756/756782_2984522-hq.mp3",
-    "https://cdn.freesound.org/previews/479/479916_1954411-hq.mp3",
-    "https://cdn.freesound.org/previews/808/808164_3797507-hq.mp3",
-    "https://cdn.freesound.org/previews/808/808182_3797507-hq.mp3"
-  ],
-  "perc": [
-    "https://cdn.freesound.org/previews/696/696138_3049306-hq.mp3",
-    "https://cdn.freesound.org/previews/668/668757_12672694-hq.mp3"
-  ],
-  "snare": [
-    "https://cdn.freesound.org/previews/574/574884_2305630-hq.mp3",
-    "https://cdn.freesound.org/previews/820/820097_14472550-hq.mp3",
-    "https://cdn.freesound.org/previews/805/805008_3797507-hq.mp3"
-  ],
-  "top": [
-    "https://cdn.freesound.org/previews/543/543673_2466312-hq.mp3"
-  ],
-  "tankdrum": [
-    "https://cdn.freesound.org/previews/535/535464_3025423-hq.mp3"
-  ],
-  "bell": [
-    "https://cdn.freesound.org/previews/517/517661_8031303-hq.mp3"
+    "kick1.mp3",
   ]
 }
